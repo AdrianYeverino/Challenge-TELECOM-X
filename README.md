@@ -15,7 +15,6 @@ Este proyecto analiza los patrones de abandono (churn) de clientes en una compa�
 - Bibliotecas principales:
   - Pandas (manipulación de datos)
   - Matplotlib/Seaborn (visualización)
-  - Scipy (análisis estadístico)
 - Jupyter Notebook/Google Colab
 
 ## 📊 Principales hallazgos
